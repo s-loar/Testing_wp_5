@@ -1,5 +1,7 @@
 *.log
 local-config.php
+live-config.php
+staging-config.php
 wp-content/backups/*
 wp-content/cache/*
 wp-content/upgrade/*
