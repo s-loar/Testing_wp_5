@@ -1,0 +1,11 @@
+*.log
+local-config.php
+wp-content/backups/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+
+/.htaccess
+.DS_Store
+
+!wp-content/uploads/.htaccess
